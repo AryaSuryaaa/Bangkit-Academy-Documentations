@@ -1,5 +1,9 @@
 # Bangkit Academy Documentations
 
+Transcript nilai program Bangkit Academy 2023 Batch 2
+
+![Transcript Nilai](/assets/transcript-nilai.png)
+
 Berikut merupakan link project yang saya kerjakan selama mengikuti pembelajaran di Bangkit Academy 2023 Batch 2
 
 ## Memulai Pemrograman dengan Kotlin
